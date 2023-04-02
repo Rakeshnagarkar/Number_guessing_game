@@ -58,4 +58,4 @@ The number guessing game code is designed around a single function, 'play_game()
 
 ## Libraries/Tools
 
-I imported ‘random’ to implement shuffling and ‘collections’ for defaultdicts. Python is my language of choice because I'm extremely comfortable in the environment and it is highly readable
+I imported ‘random’ to implement shuffling of numbers. Python is my language of choice because I'm extremely comfortable in the environment and it is highly readable
